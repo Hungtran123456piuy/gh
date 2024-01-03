@@ -1,0 +1,9 @@
+Versionmod: 6jbu6
+Textsubversionmod: Cập Nhật Tại https://t.me/HGMOD_C
+m_key0: https://t.me/HGMOD_C
+HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
+KeyMain: 
+Note: LienQuanMobile32bitlQ
+TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
+TitleImGui2: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
+CRE: Made by VietNam
