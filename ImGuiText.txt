@@ -4,6 +4,6 @@ m_key0: https://t.me/HGMOD_C
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
 KeyMain: 
 Note: LienQuanMobile32bitlQ
-TitleImGui: Garena Nâng Cấp Quét Ban Không Chơi Được Đâu Liên Quân Mobile 32bit - Hack, Garena Nâng Cấp Quét Ban Không Chơi Được Đâu Hack Liên Quân Mobile
+TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 TitleImGui2: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
-CRE: Made by VietNam
+CRE: Vietnam
