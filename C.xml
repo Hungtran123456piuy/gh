@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="str_EnablePraise" value="1" />
+    <int name="NGame_HasAgreeTermsService1.53.1" value="1" />
+    <int name="PhoneNotifyEnable" value="1" />
+    <int name="str_inBatInputShowType" value="1" />
+    <int name="GameSettingEnableIDCMatchingToday" value="0" />
+    <int name="sgameSettings_ParticleQuality" value="3" />
+    <int name="CommercializeNotifyType" value="1" />
+    <int name="GameSettings_MoveLockTargetType" value="0" />
+    <int name="GameSettingEnableHDMode" value="0" />
+    <int name="EnemyIconOutOfVision" value="0" />
+    <string name="GCloud_Cache_ResSvnRevision">1116367</string>
+    <int name="UseJobSystemInPrepareSceneNodes" value="0" />
+    <string name="NGameLanguage">VN_Garena_VN</string>
+    <int name="1011_12150124252038257_VISIT_LEGEND_WEEK_REPORT" value="0" />
+    <int name="cameraHeight" value="1" />
+    <string name="ReplayKit">1</string>
+    <int name="CrachInLobbyWithClientSettingOnSvrFlag" value="0" />
+    <int name="UseJobSystemInRenderForwardAlphaSort" value="0" />
+    <float name="GameSettingCameraHuaDongSensitivity" value="360.00003" />
+    <int name="GameSettingEnableOrganSkinShow" value="1" />
+    <int name="GameSettingEnableReplayKit" value="0" />
+    <int name="joystickShowType" value="0" />
+    <int name="UseJobSystemInOtherRuntimModule" value="0" />
+    <int name="GameSetting_CommonAttackType" value="0" />
+    <int name="GameSettingManualUse30FPS" value="1" />
+    <int name="joystickMoveType" value="1" />
+    <int name="GameSettingEnableShowHeroHeadInSelectTargetSkill" value="1" />
+    <int name="Login_PrefabIndex" value="363" />
+    <int name="AndriodMRStatus" value="7" />
+    <int name="sgameSettings_muteSound" value="1" />
+    <int name="AnimationDoValidationInJobEnable" value="1" />
+    <float name="GameSettingSkillPanelOffsetX" value="0.0" />
+    <float name="GameSettingSkillPanelOffsetY" value="0.0" />
+    <int name="GCloud.AutoLoginKey" value="1" />
+    <int name="DoOptimizeInUpdateRectTransform" value="1" />
+    <int name="GameSettings_EnableAutoTranslation" value="0" />
+    <int name="GameSettings_CastType" value="1" />
+    <int name="NGameUnity_DisableMTR" value="0" />
+    <int name="str_fpsShowType" value="0" />
+    <string name="SelectTargetByEnemyHeroHead">1</string>
+    <int name="GameSettingMinimapSignalOpType" value="1" />
+    <int name="GameSettingCameraMoveWithIndicator" value="0" />
+    <string name="AovLocalizedSoundKey">VN</string>
+    <int name="LogoPlayTotalTime" value="415" />
+    <string name="RedVer_Mall_HeroTab">0_1</string>
+    <int name="UseJobSystemInDirectorPrepareFrame" value="0" />
+    <int name="BRCS_lastGameDeskUnsync" value="0" />
+    <int name="12150124252038257PrimeSkinHaveNew" value="1" />
+    <int name="bNeedReportTLogData" value="0" />
+    <int name="str_EnableHDCloud" value="0" />
+    <int name="GameSettingShowEquipDesc" value="1" />
+    <float name="GameSettingCameraYaoGanSensitivity" value="45000.086" />
+    <int name="GameSettingEnableHDRecord" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="590" />
+    <string name="LastLoginSvrInPCKey">M%E1%BA%B7t%20tr%E1%BB%9Di</string>
+    <int name="GameSettingEquipPosType" value="0" />
+    <int name="UseJobSystemInSkinnedMeshUpdateAllNeeded" value="0" />
+    <int name="str_NeverSurrender" value="0" />
+    <int name="UseJobSystemInCanvasPrepareBatchesJob" value="1" />
+    <int name="sgameSettings_LiteSound" value="1" />
+    <int name="GameSettingEnableSkillDescDetail" value="0" />
+    <int name="UseJobSystemInExtractRenderNodeQueue" value="1" />
+    <int name="friendRequestFlag121501242520382572" value="5" />
+    <int name="str_EnableAnswerSorryForDeath" value="1" />
+    <string name="GCloud_Cache_ResVersion">1.53.1.4</string>
+    <int name="GameSettingEnableBigPictureThinking" value="1" />
+    <int name="sgameSettings_outline" value="1" />
+    <string name="RedVer_Mall_HeroSkinTab">0_1</string>
+    <string name="ShortcutMessage">1</string>
+    <int name="VersionUpdateRuned" value="1" />
+    <float name="VersionUpdateResLoadTimeStart" value="28.407564" />
+    <string name="str_firstTimeRunGameUUID">6A-9A-66-86-9A-ED-80-37-50-25-87-60-35-20-A2-A7</string>
+    <int name="GameSettingLastSettingTab" value="0" />
+    <int name="GameSettingEnableSelectTargetByEnemyHeroHead" value="2" />
+    <int name="UseJobSystemInAnimationsUpdate" value="1" />
+    <int name="GameSettingAutoBuyEquipAndLearnSkill" value="0" />
+    <int name="GameSettingDualChannel" value="0" />
+    <int name="NGameSettings_ParticleQuality" value="4" />
+    <int name="1011_12150124252038257_PLAYER_CREDITEXP_LEVEL" value="2" />
+    <int name="GameSettingEnableHeroSkillDescDetail" value="0" />
+    <int name="OpenGLES3Enable" value="1" />
+    <int name="ResLoadTotalTime" value="4894" />
+    <int name="str_fowShowType" value="0" />
+    <int name="GameSettingJoystickFollowFinger" value="0" />
+    <float name="LaunchStateEnterTimeStart" value="0.8270124" />
+    <int name="UseJobSystemInTransformChangeDispatch" value="0" />
+    <int name="GameSetting_LastHitMode" value="1" />
+    <int name="UseJobSystemInScheduleGeometryJobs" value="1" />
+    <string name="12150124252038257PrimeHero">167%2C510%2C531%2C534%2C539%2C</string>
+    <int name="UseJobSystemInRenderForwardAssignProjectorQueuesJob" value="0" />
+    <float name="GameSettingVoiceEffectLevel" value="100.00001" />
+    <int name="GameSettingCameraMoveType" value="2" />
+    <float name="SuitNotifyKey_9999999" value="6.2135595E10" />
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="BRCS_lastGameCrcError" value="0" />
+    <int name="UseJobSystemInMeshSkinningUpdate" value="1" />
+    <int name="str_ShowLockHeroInfoEnable" value="0" />
+    <int name="GameSettingEnableHeroInfoView" value="1" />
+    <int name="GameSettingAutoBuyEquip" value="0" />
+    <int name="CloseNewbieGuideTips" value="0" />
+    <int name="16842753_12150124252038257_1011_SwitchSeason_Sequence" value="-1" />
+    <int name="GameSettingEnablePersonalButton" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1280" />
+    <int name="str_showHightLight" value="1" />
+    <int name="str_firstTimeInGame" value="0" />
+    <int name="JobSchedulerMaxThreads" value="1" />
+    <int name="GameSettingNUse60FPS" value="1" />
+    <int name="str_EnableSorryForDeath" value="1" />
+    <int name="GameSettingStoreLayout" value="0" />
+    <int name="GameSettingEnableSkillFloatCD" value="1" />
+    <int name="GameSettingSkillCancleType" value="0" />
+    <int name="ResetRenderAndParticleQualityInBeta35" value="0" />
+    <int name="Moments_Server_AutoShareImage2Moments" value="0" />
+    <float name="GameSettingSoundEffectLevel" value="100.00001" />
+    <int name="GameSettingChatInBattleEnableSvrConfigCache" value="1" />
+    <int name="UseJobSystemInCanvasSplitInstructionsJob" value="1" />
+    <int name="Lobby_LastPlayerListTypeKey" value="0" />
+    <int name="GameSettingEnableCameraFrame" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="RedVer_Mall_RecommendTab">11_1</string>
+    <int name="UseJobSystemInAsyncUpload" value="0" />
+    <int name="GameSettingEnableAdvLighting" value="1" />
+    <int name="BagTabRedDot_2" value="1706064087" />
+    <int name="sgameSettings_EnableVoice" value="1" />
+    <int name="GameSettings_SelectEnemyType" value="2" />
+    <int name="BagTabRedDot_9" value="1706064087" />
+    <int name="BagTabRedDot_7" value="1706064087" />
+    <int name="GameSettingEcoInfo" value="0" />
+    <float name="GameSettings_LunPanCastSensitivity" value="1.0" />
+    <int name="BagTabRedDot_0" value="1706064087" />
+    <int name="BagTabRedDot_1" value="1706064087" />
+    <int name="NGameSettings_RenderQuality" value="4" />
+    <int name="UseJobSystemInParticleSystemNoisePreviewJob" value="0" />
+    <int name="GameSettingEnableShowEnemyHeroHeadBtnMode" value="0" />
+    <int name="UseJobSystemInRenderForwardOpaqueSort" value="0" />
+    <string name="visitorUid">12150124252038257</string>
+    <int name="First_AppOpen" value="1" />
+    <int name="sgameSettings_RenderQuality" value="3" />
+    <int name="UseJobSystemInDispatchRendererCullingCallbackJobs" value="1" />
+    <string name="RedVer_Mall_MysteryTab">11_1</string>
+    <int name="GameSettingAutoLearnSkill" value="0" />
+    <int name="OfflineResState%20" value="1" />
+    <int name="GameSettingEnableNewbieGuideTips" value="1" />
+    <string name="RedVer_Mall_BoutiqueTab">0_1</string>
+    <int name="BRCS_lastGameSelfUnsync" value="0" />
+    <int name="GameSettingMiniMapPosType" value="0" />
+    <int name="HASCLICK_DUALCHANNEAL" value="1" />
+    <int name="Animator_DefaultOptDeactive" value="0" />
+    <int name="UseJobSystemInAnimatorsWriteJob" value="0" />
+    <float name="GameSettingScreenResolutionX" value="1280.0" />
+    <float name="GameSettingScreenResolutionY" value="590.0" />
+    <int name="GameSetting_EnableReplay" value="0" />
+    <int name="12150124252038257PrimeHeroHaveNew" value="1" />
+    <int name="sgameSettings_muteMusic" value="0" />
+    <int name="SuitNotifyKey_9999999_62135596800" value="2" />
+    <int name="str_EnableRespondPassiveSignal" value="1" />
+    <int name="PlayerInfoHeadTabReddot" value="0" />
+    <int name="UseJobSystemInParticleSystemNoiseJob" value="0" />
+    <int name="UseJobSystemInParticleSystemUpdateJob" value="1" />
+    <int name="GameSettingFPSMode" value="2" />
+    <int name="GameSettingEnableTaleTimeRecord" value="0" />
+    <int name="UseJobSystemInCanvasSortJob" value="1" />
+    <int name="UseJobSystemInAnimatorsUpdate" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="GameSettingEnableVibrate" value="1" />
+    <int name="str_SettingEnableMovePredict" value="0" />
+    <float name="GameSettingMusicEffectLevel" value="20.706001" />
+    <int name="GameSettingEnableReplayKitAutoMode" value="0" />
+    <int name="GameSettingDisableHeroEnterTitle" value="0" />
+    <int name="UseJobSystemInPrepareSceneNodesJob" value="0" />
+    <int name="BRCS_ResDReaderErrorCount" value="0" />
+    <int name="ForceDisableUsesOnMouseEventsOnMobile" value="1" />
+    <string name="12150124252038257PrimeSkin">109-8%2C175-32%2C108-128%2C152-4%2C512-4%2C</string>
+    <int name="str_skillBriefDescShowType" value="1" />
+    <int name="VISIT_CREDITSCORE_REDDOT" value="1" />
+    <int name="GameSettingEnableBlockTeamateSignal" value="0" />
+    <int name="GameSettingEnableFreeRecord" value="0" />
+</map>
