@@ -1,6 +1,5 @@
 {
     "version": "1.0.0",
     "versionCode": 1,
-    "zipUrl": "https://github.com/mywalkb/DenylistUnmount/releases/download/v0.4/denylist-v0.4.zip",
-    "changelog": "https://raw.githubusercontent.com/mywalkb/DenylistUnmount/main/CHANGELOG.md"
+    "zipUrl": "https://github.com/mywalkb/DenylistUnmount/releases/download/v0.4/denylist-v0.4.zip"
 }
